@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+networkx
+neo4j
+pyvis
+tiktoken
+python-dotenv
+langchain-groq
+
+
